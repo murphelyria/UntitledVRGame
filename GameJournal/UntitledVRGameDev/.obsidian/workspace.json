@@ -15,9 +15,9 @@
               "state": {
                 "file": "Game Dev Canvas.canvas",
                 "viewState": {
-                  "x": -225.7329726952412,
-                  "y": -331.30656582404845,
-                  "zoom": -0.5
+                  "x": 328.5567372241957,
+                  "y": -217.6195818564629,
+                  "zoom": -0.8058663214219641
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Dev Canvas.canvas",
+                "file": "Photos/Reference/9wh9bdrk.bmp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Dev Canvas.canvas",
+                "file": "Photos/Reference/9wh9bdrk.bmp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Dev Canvas.canvas"
+                "file": "Photos/Reference/9wh9bdrk.bmp"
               }
             }
           }
@@ -151,7 +151,25 @@
   },
   "active": "b1b251ed65f9cb05",
   "lastOpenFiles": [
+    "Photos/Reference/4yqznd6l.bmp",
+    "Photos/Reference/botqelc3.bmp",
+    "Chapter Docs/_Overview.md",
+    "Chapter Docs/Chapter 1.md",
     "Untitled VR Game Master Doc.md",
-    "Game Dev Canvas.canvas"
+    "Game Dev Canvas.canvas",
+    "Photos/Reference/abwqno0q.bmp",
+    "Photos/Reference/xls2t3dy.bmp",
+    "Photos/Reference/4fot2x06.bmp",
+    "Photos/Reference/5ed5kqbz.bmp",
+    "Photos/Reference/w5qpwmnm.bmp",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Photos/Reference/y405fy20.bmp",
+    "Photos/Reference/3exhsjj4.bmp",
+    "Photos/Reference/9wh9bdrk.bmp",
+    "Photos/Reference/t3gmo6v3.bmp",
+    "Photos/Reference",
+    "Photos",
+    "Chapter Docs"
   ]
 }

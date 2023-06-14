@@ -1,2 +1,4 @@
 ## General Concept
 I want to make a game that rivals Half Life: Alyx, designed to run phenomenally on all platforms. Basic concept is a game that goes between a bunch of different styles, kinda in a multiverse themed world, where the player is switching between realities, which requires a bunch of different mechanics to work in tandem. Typical story of coporation is trying to control this, doesn't like that the player can just fuck around and find out, and is trying to stop them, we don't know specifically why.
+
+- Needs to all be set in one place, dimensional jumping to wildly different locations doesn't make sense unless you also establish teleportation, so this needs to be primarily all set in one city that we can change the style of. This way we can justify reusing the same main map and changing the environment to decide where the player ends up going.
