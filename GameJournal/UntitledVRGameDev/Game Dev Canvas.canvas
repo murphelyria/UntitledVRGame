@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"Game Dev Canvas","id":"1affa0b30e8bc109","x":-620,"y":-960,"width":250,"height":60,"color":"1"},
+		{"id":"c627e8d7d697655f","x":-620,"y":-880,"width":250,"height":60,"color":"6","type":"text","text":"Chapter 1 - "},
+		{"type":"text","text":"Chapter 2 - ","id":"310e4795edc4c586","x":-620,"y":-800,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 3 - ","id":"27f6a94053330830","x":-620,"y":-720,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 4 - ","id":"67e8778643429932","x":-620,"y":-640,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 5 - ","id":"da7592602b4f2aad","x":-620,"y":-560,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 6 - ","id":"59b9d76ae9754485","x":-620,"y":-480,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 7 - ","id":"a0f654a84e858b92","x":-620,"y":-400,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 8 - ","id":"33a9301f36dfc3c7","x":-620,"y":-320,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 9 - ","id":"bbde3605103d4c03","x":-620,"y":-240,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 10 - ","id":"3c97d8e65366b928","x":-620,"y":-160,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Chapter 11 - ","id":"22cc3a20e2b9a57c","x":-620,"y":-80,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[]
+}

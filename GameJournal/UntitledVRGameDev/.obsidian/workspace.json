@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "8f22691fb7e23049",
+    "type": "split",
+    "children": [
+      {
+        "id": "12974b2c17f8dffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1b251ed65f9cb05",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Game Dev Canvas.canvas",
+                "viewState": {
+                  "x": -225.7329726952412,
+                  "y": -331.30656582404845,
+                  "zoom": -0.5
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee4e640e48cdb260",
+    "type": "split",
+    "children": [
+      {
+        "id": "f63b56334f018c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3cad2dd163bcc61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76d65bbb89db7e64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b08aec3df6982c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f421da40d625a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea51ebee3f29f791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca0a0b92d2675319",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game Dev Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d67d8846667415a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game Dev Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bd827b996f1f6c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8095188a7a986e2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game Dev Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1b251ed65f9cb05",
+  "lastOpenFiles": [
+    "Untitled VR Game Master Doc.md",
+    "Game Dev Canvas.canvas"
+  ]
+}

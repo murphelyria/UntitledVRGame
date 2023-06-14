@@ -1,0 +1,2 @@
+## General Concept
+I want to make a game that rivals Half Life: Alyx, designed to run phenomenally on all platforms. Basic concept is a game that goes between a bunch of different styles, kinda in a multiverse themed world, where the player is switching between realities, which requires a bunch of different mechanics to work in tandem. Typical story of coporation is trying to control this, doesn't like that the player can just fuck around and find out, and is trying to stop them, we don't know specifically why.
